@@ -366,7 +366,7 @@ VisualEffect:
   m_PropertySheet:
     m_Float:
       m_Array:
-      - m_Value: 0
+      - m_Value: 1
         m_Name: SpawnRate
         m_Overridden: 1
     m_Vector2f:
@@ -589,7 +589,7 @@ VisualEffect:
   m_PropertySheet:
     m_Float:
       m_Array:
-      - m_Value: 0
+      - m_Value: 1
         m_Name: SpawnRate
         m_Overridden: 1
     m_Vector2f:
