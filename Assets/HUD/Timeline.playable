@@ -190,7 +190,7 @@ MonoBehaviour:
   - {fileID: 3016960600592592785}
   m_FixedDuration: 0
   m_EditorSettings:
-    m_Framerate: 60
+    m_Framerate: 30
     m_ScenePreview: 1
   m_DurationMode: 0
   m_MarkerTrack: {fileID: 0}
@@ -207,7 +207,7 @@ MonoBehaviour:
   m_Name: RecorderClip
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 1
+  take: 2
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
