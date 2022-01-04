@@ -789,6 +789,7 @@ GameObject:
   - component: {fileID: 819795047}
   - component: {fileID: 819795048}
   - component: {fileID: 819795046}
+  - component: {fileID: 819795049}
   m_Layer: 0
   m_Name: MIDI Receiver
   m_TagString: Untagged
@@ -809,8 +810,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   noteFilter:
-    note: 1
-    octave: 6
+    note: 12
+    octave: 5
   noteOnEvent:
     m_PersistentCalls:
       m_Calls:
@@ -859,6 +860,39 @@ MonoBehaviour:
   noteFilter:
     note: 10
     octave: 5
+  noteOnEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1521346552}
+        m_TargetAssemblyTypeName: UnityEngine.VFX.VisualEffect, UnityEngine
+        m_MethodName: SendEvent
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Kick
+          m_BoolArgument: 0
+        m_CallState: 2
+  noteOffEvent:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &819795049
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 819795045}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 390e5cebc37d6d7258bdb58f0380f9d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  noteFilter:
+    note: 1
+    octave: 6
   noteOnEvent:
     m_PersistentCalls:
       m_Calls:
