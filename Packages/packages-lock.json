@@ -106,6 +106,13 @@
         "com.unity.render-pipelines.core": "12.1.2"
       }
     },
+    "jp.keijiro.klak.timeline.midi": {
+      "version": "1.0.5",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://registry.npmjs.com"
+    },
     "jp.keijiro.klak.timeline.procedural-motion": {
       "version": "1.0.2",
       "depth": 0,
