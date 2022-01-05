@@ -611,7 +611,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614558}
   - {fileID: 8926484042661614583}
   dataType: 0
-  capacity: 64
+  capacity: 16
   stripCapacity: 16
   particlePerStripCount: 16
   needsComputeBounds: 0
@@ -1389,8 +1389,8 @@ MonoBehaviour:
   - {fileID: 8926484042661614657}
   - {fileID: 8926484042661614659}
   dataType: 1
-  capacity: 8192
-  stripCapacity: 64
+  capacity: 2048
+  stripCapacity: 16
   particlePerStripCount: 128
   needsComputeBounds: 0
   boundsSettingMode: 1
@@ -7780,7 +7780,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_UIIgnoredErrors: []
-  m_Parent: {fileID: 0}
+  m_Parent: {fileID: 114350483966674976}
   m_Children: []
   m_UIPosition: {x: 0, y: 0}
   m_UICollapsed: 1
