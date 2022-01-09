@@ -667,7 +667,7 @@ VisualEffect:
       - m_Value: 0
         m_Name: SpawnRate
         m_Overridden: 1
-      - m_Value: 0
+      - m_Value: 1
         m_Name: Flatten
         m_Overridden: 1
     m_Vector2f:
@@ -1060,7 +1060,7 @@ VisualEffect:
       - m_Value: 0
         m_Name: SpawnRate
         m_Overridden: 1
-      - m_Value: 0
+      - m_Value: 1
         m_Name: Flatten
         m_Overridden: 1
     m_Vector2f:
@@ -1204,7 +1204,7 @@ VisualEffect:
   m_PropertySheet:
     m_Float:
       m_Array:
-      - m_Value: 0
+      - m_Value: 0.2
         m_Name: SpawnRate
         m_Overridden: 1
     m_Vector2f:
@@ -1917,8 +1917,8 @@ VisualEffect:
   m_Asset: {fileID: 8926484042661614526, guid: 2bc1c51b474bf41d38e8c0340f6da4a3, type: 3}
   m_InitialEventName: OnPlay
   m_InitialEventNameOverriden: 0
-  m_StartSeed: 0
-  m_ResetSeedOnPlay: 1
+  m_StartSeed: 2137877697
+  m_ResetSeedOnPlay: 0
   m_ResourceVersion: 1
   m_PropertySheet:
     m_Float:
