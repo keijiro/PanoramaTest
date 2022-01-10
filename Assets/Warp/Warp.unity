@@ -234,16 +234,16 @@ VisualEffect:
       m_Array:
       - m_Value:
           serializedVersion: 2
-          key0: {r: 23.968628, g: 3.2627444, b: 6.3541646, a: 1}
-          key1: {r: 0, g: 10.366312, b: 18.164822, a: 1}
-          key2: {r: 2.6082375, g: 2.6082375, b: 2.6082375, a: 0}
+          key0: {r: 1.4441098, g: 3.9217775, b: 5.992157, a: 1}
+          key1: {r: 8.47419, g: 3.5316005, b: 1.3219732, a: 1}
+          key2: {r: 1, g: 1, b: 1, a: 0}
           key3: {r: 0, g: 0, b: 0, a: 0}
           key4: {r: 0, g: 0, b: 0, a: 0}
           key5: {r: 0, g: 0, b: 0, a: 0}
           key6: {r: 0, g: 0, b: 0, a: 0}
           key7: {r: 0, g: 0, b: 0, a: 0}
-          ctime0: 16384
-          ctime1: 32768
+          ctime0: 32768
+          ctime1: 65535
           ctime2: 65535
           ctime3: 0
           ctime4: 0
@@ -259,7 +259,7 @@ VisualEffect:
           atime6: 0
           atime7: 0
           m_Mode: 1
-          m_NumColorKeys: 3
+          m_NumColorKeys: 2
           m_NumAlphaKeys: 2
         m_Name: Gradient
         m_Overridden: 1
@@ -342,7 +342,7 @@ VisualEffect:
   m_PropertySheet:
     m_Float:
       m_Array:
-      - m_Value: 0
+      - m_Value: 0.76422775
         m_Name: SpawnRate
         m_Overridden: 1
     m_Vector2f:
@@ -665,10 +665,10 @@ VisualEffect:
   m_PropertySheet:
     m_Float:
       m_Array:
-      - m_Value: 0
+      - m_Value: 0.2
         m_Name: SpawnRate
         m_Overridden: 1
-      - m_Value: 1
+      - m_Value: 0
         m_Name: Flatten
         m_Overridden: 1
     m_Vector2f:
@@ -689,7 +689,7 @@ VisualEffect:
       m_Array:
       - m_Value:
           serializedVersion: 2
-          key0: {r: 11.984314, g: 11.984314, b: 11.984314, a: 1}
+          key0: {r: 5.992157, g: 5.992157, b: 5.992157, a: 1}
           key1: {r: 0.3773585, g: 0.3773585, b: 0.3773585, a: 1}
           key2: {r: 0, g: 0, b: 0, a: 0}
           key3: {r: 0, g: 0, b: 0, a: 0}
@@ -1091,10 +1091,10 @@ VisualEffect:
   m_PropertySheet:
     m_Float:
       m_Array:
-      - m_Value: 0
+      - m_Value: 0.15285717
         m_Name: SpawnRate
         m_Overridden: 1
-      - m_Value: 1
+      - m_Value: 0
         m_Name: Flatten
         m_Overridden: 1
     m_Vector2f:
@@ -1115,16 +1115,16 @@ VisualEffect:
       m_Array:
       - m_Value:
           serializedVersion: 2
-          key0: {r: 23.968628, g: 3.2627444, b: 6.3541646, a: 1}
-          key1: {r: 0, g: 10.366312, b: 18.164822, a: 1}
-          key2: {r: 2.6082375, g: 2.6082375, b: 2.6082375, a: 0}
+          key0: {r: 1.4441098, g: 3.9217775, b: 5.992157, a: 1}
+          key1: {r: 8.47419, g: 3.5316005, b: 1.3219732, a: 1}
+          key2: {r: 1, g: 1, b: 1, a: 0}
           key3: {r: 2.6082375, g: 2.6082375, b: 2.6082375, a: 0}
           key4: {r: 0, g: 0, b: 0, a: 0}
           key5: {r: 0, g: 0, b: 0, a: 0}
           key6: {r: 0, g: 0, b: 0, a: 0}
           key7: {r: 0, g: 0, b: 0, a: 0}
-          ctime0: 16384
-          ctime1: 32768
+          ctime0: 21974
+          ctime1: 43754
           ctime2: 65535
           ctime3: 65535
           ctime4: 0
@@ -1718,19 +1718,19 @@ VisualEffect:
       m_Array:
       - m_Value:
           serializedVersion: 2
-          key0: {r: 23.968628, g: 3.2627444, b: 6.3541646, a: 1}
-          key1: {r: 0, g: 10.366312, b: 18.164822, a: 1}
-          key2: {r: 2.6082375, g: 2.6082375, b: 2.6082375, a: 0}
-          key3: {r: 0, g: 0, b: 0, a: 0}
-          key4: {r: 0, g: 0, b: 0, a: 0}
+          key0: {r: 9.082411, g: 4.1370144, b: 2.0447311, a: 1}
+          key1: {r: 1.4980392, g: 0.68235296, b: 0.3372549, a: 1}
+          key2: {r: 0.73051465, g: 0.73051465, b: 0.73051465, a: 0}
+          key3: {r: 2, g: 2, b: 2, a: 0}
+          key4: {r: 2, g: 2, b: 2, a: 0}
           key5: {r: 0, g: 0, b: 0, a: 0}
           key6: {r: 0, g: 0, b: 0, a: 0}
           key7: {r: 0, g: 0, b: 0, a: 0}
-          ctime0: 16384
-          ctime1: 32768
-          ctime2: 65535
-          ctime3: 0
-          ctime4: 0
+          ctime0: 12336
+          ctime1: 25250
+          ctime2: 38936
+          ctime3: 65535
+          ctime4: 65535
           ctime5: 0
           ctime6: 0
           ctime7: 0
@@ -1743,7 +1743,7 @@ VisualEffect:
           atime6: 0
           atime7: 0
           m_Mode: 1
-          m_NumColorKeys: 3
+          m_NumColorKeys: 4
           m_NumAlphaKeys: 2
         m_Name: Gradient
         m_Overridden: 1
@@ -1841,7 +1841,7 @@ VisualEffect:
   m_PropertySheet:
     m_Float:
       m_Array:
-      - m_Value: 0
+      - m_Value: 0.38461557
         m_Name: SpawnRate
         m_Overridden: 1
     m_Vector2f:
@@ -1865,16 +1865,16 @@ VisualEffect:
       m_Array:
       - m_Value:
           serializedVersion: 2
-          key0: {r: 23.968628, g: 3.2627444, b: 6.3541646, a: 1}
-          key1: {r: 0, g: 10.366312, b: 18.164822, a: 1}
-          key2: {r: 2.6082375, g: 2.6082375, b: 2.6082375, a: 0}
+          key0: {r: 1.4441098, g: 3.9217775, b: 5.992157, a: 1}
+          key1: {r: 8.47419, g: 3.5316005, b: 1.3219732, a: 1}
+          key2: {r: 1, g: 1, b: 1, a: 0}
           key3: {r: 0, g: 0, b: 0, a: 0}
           key4: {r: 0, g: 0, b: 0, a: 0}
           key5: {r: 0, g: 0, b: 0, a: 0}
           key6: {r: 0, g: 0, b: 0, a: 0}
           key7: {r: 0, g: 0, b: 0, a: 0}
-          ctime0: 16384
-          ctime1: 32768
+          ctime0: 21974
+          ctime1: 43754
           ctime2: 65535
           ctime3: 0
           ctime4: 0
@@ -2009,16 +2009,16 @@ VisualEffect:
       m_Array:
       - m_Value:
           serializedVersion: 2
-          key0: {r: 23.968628, g: 3.2627444, b: 6.3541646, a: 1}
-          key1: {r: 0, g: 10.366312, b: 18.164822, a: 1}
-          key2: {r: 2.6082375, g: 2.6082375, b: 2.6082375, a: 0}
+          key0: {r: 1.4441098, g: 3.9217775, b: 5.992157, a: 1}
+          key1: {r: 8.47419, g: 3.5316005, b: 1.3219732, a: 1}
+          key2: {r: 1, g: 1, b: 1, a: 0}
           key3: {r: 0, g: 0, b: 0, a: 0}
           key4: {r: 0, g: 0, b: 0, a: 0}
           key5: {r: 0, g: 0, b: 0, a: 0}
           key6: {r: 0, g: 0, b: 0, a: 0}
           key7: {r: 0, g: 0, b: 0, a: 0}
-          ctime0: 16384
-          ctime1: 32768
+          ctime0: 32768
+          ctime1: 65535
           ctime2: 65535
           ctime3: 0
           ctime4: 0
@@ -2034,7 +2034,7 @@ VisualEffect:
           atime6: 0
           atime7: 0
           m_Mode: 1
-          m_NumColorKeys: 3
+          m_NumColorKeys: 2
           m_NumAlphaKeys: 2
         m_Name: Gradient
         m_Overridden: 1

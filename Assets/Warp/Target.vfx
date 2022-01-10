@@ -690,7 +690,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 0.38
+      m_SerializableObject: 0.25
     m_Space: 2147483647
   m_Property:
     name: _Saturation
@@ -728,7 +728,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Color, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"r":0.7735849022865295,"g":0.7735849022865295,"b":0.7735849022865295,"a":1.0}'
+      m_SerializableObject: '{"r":0.5377358198165894,"g":0.5377358198165894,"b":0.5377358198165894,"a":1.0}'
     m_Space: 2147483647
   m_Property:
     name: _Tint
@@ -1711,7 +1711,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_UIIgnoredErrors: []
-  m_Parent: {fileID: 0}
+  m_Parent: {fileID: 114350483966674976}
   m_Children: []
   m_UIPosition: {x: 0, y: 0}
   m_UICollapsed: 1

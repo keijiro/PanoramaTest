@@ -582,7 +582,7 @@
     "m_ObjectId": "3b063939f08c48a2beaeca4148fb542d",
     "m_MaterialNeedsUpdateHash": 0,
     "m_SurfaceType": 1,
-    "m_RenderingPass": 3,
+    "m_RenderingPass": 4,
     "m_BlendMode": 0,
     "m_ZTest": 4,
     "m_ZWrite": false,
