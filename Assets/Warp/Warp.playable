@@ -745,7 +745,7 @@ MonoBehaviour:
   - {fileID: 730550238611906859}
   m_FixedDuration: 0
   m_EditorSettings:
-    m_Framerate: 30
+    m_Framerate: 60
     m_ScenePreview: 1
   m_DurationMode: 0
   m_MarkerTrack: {fileID: -3488129334337522236}
@@ -815,7 +815,7 @@ MonoBehaviour:
       flipFinalOutput: 0
       renderStereo: 0
       stereoSeparation: 0.065
-      mapSize: 1024
+      mapSize: 2048
       m_OutputWidth: 4096
       m_OutputHeight: 2048
     renderTextureInputSettings:
