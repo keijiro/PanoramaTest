@@ -7493,7 +7493,7 @@ MonoBehaviour:
   m_InputSlots:
   - {fileID: 8926484042661615141}
   m_OutputSlots: []
-  m_Disabled: 0
+  m_Disabled: 1
   attribute: color
   Composition: 2
   Source: 0
