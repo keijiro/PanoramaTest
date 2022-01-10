@@ -52,7 +52,7 @@ MonoBehaviour:
     x: -375
     y: -424
     width: 1978
-    height: 2184
+    height: 2108
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -602,7 +602,6 @@ MonoBehaviour:
   m_Parent: {fileID: 114350483966674976}
   m_Children:
   - {fileID: 8926484042661614767}
-  - {fileID: 8926484042661614589}
   m_UIPosition: {x: 941, y: 1358}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
@@ -649,29 +648,6 @@ MonoBehaviour:
     - 0
   primitiveType: 1
   useGeometryShader: 0
---- !u!114 &8926484042661614589
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d16c6aeaef944094b9a1633041804207, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_UIIgnoredErrors: []
-  m_Parent: {fileID: 8926484042661614585}
-  m_Children: []
-  m_UIPosition: {x: 0, y: 129}
-  m_UICollapsed: 0
-  m_UISuperCollapsed: 0
-  m_InputSlots: []
-  m_OutputSlots: []
-  m_Disabled: 0
-  mode: 0
-  axes: 4
 --- !u!114 &8926484042661614590
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2587,7 +2563,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Gradient, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"colorKeys":[{"color":{"r":2.007843255996704,"g":45.17647171020508,"b":191.7490234375,"a":1.0},"time":0.018265049904584886},{"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"time":0.03651484102010727},{"color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"time":0.05337605997920036},{"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"time":0.07022202014923096},{"color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"time":0.08708323538303375},{"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"time":0.10673686116933823},{"color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"time":0.1278095692396164}],"alphaKeys":[{"alpha":1.0,"time":0.0},{"alpha":1.0,"time":1.0}],"gradientMode":1}'
+      m_SerializableObject: '{"colorKeys":[{"color":{"r":23.9686279296875,"g":18.698040008544923,"b":14.682353019714356,"a":1.0},"time":0.018265049904584886},{"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"time":0.03651484102010727},{"color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"time":0.05337605997920036},{"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"time":0.07022202014923096},{"color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"time":0.08708323538303375},{"color":{"r":0.0,"g":0.0,"b":0.0,"a":1.0},"time":0.10673686116933823},{"color":{"r":1.0,"g":1.0,"b":1.0,"a":1.0},"time":0.1278095692396164}],"alphaKeys":[{"alpha":1.0,"time":0.0},{"alpha":1.0,"time":1.0}],"gradientMode":1}'
     m_Space: 2147483647
   m_Property:
     name: Color
@@ -4697,7 +4673,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_UIIgnoredErrors: []
-  m_Parent: {fileID: 0}
+  m_Parent: {fileID: 114350483966674976}
   m_Children: []
   m_UIPosition: {x: 0, y: 0}
   m_UICollapsed: 1
@@ -4747,7 +4723,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_UIIgnoredErrors: []
-  m_Parent: {fileID: 0}
+  m_Parent: {fileID: 114350483966674976}
   m_Children: []
   m_UIPosition: {x: 0, y: 0}
   m_UICollapsed: 1

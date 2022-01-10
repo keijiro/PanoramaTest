@@ -162,7 +162,7 @@ Material:
     - _RenderQueueType: 1
     - _RequireSplitLighting: 0
     - _RimPower: 3
-    - _Saturation: 0
+    - _Saturation: 0.1
     - _Smoothness: 0.4
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -199,7 +199,7 @@ Material:
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _LightVector: {r: -1, g: 0, b: 0, a: 0}
     - _NightLightColor: {r: 0.2735849, g: 0.2735849, b: 0.2735849, a: 0}
-    - _RimColor: {r: 8.262371, g: 8.262371, b: 8.262371, a: 0}
-    - _SeaColor: {r: 0.3019608, g: 0.3019608, b: 0.3019608, a: 0.572}
+    - _RimColor: {r: 1.9757667, g: 2.1800263, b: 2.6016304, a: 0}
+    - _SeaColor: {r: 0.21264707, g: 0.24829045, b: 0.29411766, a: 0.572}
     - _SunDirection: {r: 1, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
