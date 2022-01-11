@@ -223,7 +223,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
-  m_Name: Horizon
+  m_Name: Timeline
   m_EditorClassIdentifier: 
   m_Version: 0
   m_Tracks:
@@ -301,7 +301,7 @@ MonoBehaviour:
       flipFinalOutput: 0
       renderStereo: 0
       stereoSeparation: 0.065
-      mapSize: 1024
+      mapSize: 2048
       m_OutputWidth: 4096
       m_OutputHeight: 2048
     renderTextureInputSettings:
