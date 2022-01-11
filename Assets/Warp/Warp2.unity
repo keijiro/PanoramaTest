@@ -518,10 +518,10 @@ VisualEffect:
   m_PropertySheet:
     m_Float:
       m_Array:
-      - m_Value: 0.4
+      - m_Value: 0
         m_Name: SpawnRate
         m_Overridden: 1
-      - m_Value: 0
+      - m_Value: 1
         m_Name: Flatten
         m_Overridden: 1
     m_Vector2f:
@@ -684,7 +684,7 @@ PlayableDirector:
   - key: {fileID: -6015110129272304678, guid: 01eca86d14b7d41d095d63b27688fc8d, type: 2}
     value: {fileID: 312862414}
   - key: {fileID: -5882570291554438264, guid: 01eca86d14b7d41d095d63b27688fc8d, type: 2}
-    value: {fileID: 1921958931}
+    value: {fileID: 2144076913}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &727730518
@@ -906,7 +906,7 @@ VisualEffect:
       - m_Value: 0
         m_Name: SpawnRate
         m_Overridden: 1
-      - m_Value: 0
+      - m_Value: 1
         m_Name: Flatten
         m_Overridden: 1
     m_Vector2f:
@@ -1050,7 +1050,7 @@ VisualEffect:
   m_PropertySheet:
     m_Float:
       m_Array:
-      - m_Value: 0.2
+      - m_Value: 0
         m_Name: SpawnRate
         m_Overridden: 1
     m_Vector2f:
@@ -1656,10 +1656,10 @@ VisualEffect:
   m_PropertySheet:
     m_Float:
       m_Array:
-      - m_Value: 0
+      - m_Value: 40
         m_Name: Size
         m_Overridden: 1
-      - m_Value: 0
+      - m_Value: 0.15
         m_Name: BG
         m_Overridden: 1
     m_Vector2f:
